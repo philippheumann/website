@@ -1,0 +1,14 @@
+#+OPTIONS: html-style:nil toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css"/>
+#+TITLE: Philipp Heumann
+
+[[mailto:philipp.heumann@pm.me][Email]] [[./index.html][CV]]
+
+[[./me.jpg]]
+
+I am an epidemiologist and doctoral researcher in the Division of Cancer Epidemiology at the German Cancer Research Center.
+
+My research is focused on patient-reported toxicities in cancer patients treated with radiotherapy.
+
+* Publications
+*Heumann P*, Aguado-Barrera ME, Avuzzi B, Azria D, Briers E, Bultijnck R, Choudhury A, De Ruysscher D, Farcy-Jacquet MP, Fonteyne V, Gómez Caamaño A, Helmbold I, Johnson K, Kerns SL, Lambrecht M, Lingard Z, Rancati T, Rosenstein BS, Sperk E, Paul Symonds R, Talbot C, Valdagni R, Vega A, Veldeman L, Ward T, Webb A, West CM, Chang-Claude J, Seibold P; REQUITE Consortium. Comparing symptom reporting by prostate cancer patients and healthcare professionals in the international multicentre REQUITE study. Radiother Oncol. 2023 Jan;178:109426. doi:10.1016/j.radonc.2022.11.015

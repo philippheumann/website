@@ -1,0 +1,38 @@
+@media only screen and (max-width: 600px) {
+    body {
+	padding: 20px;
+    }
+}
+
+h2 {
+    padding-top: 20px;
+    font-size: 1.1rem;
+}
+
+body {
+    margin: auto;
+    max-width: 500px;
+    line-height: 1.2;
+    font-family: "Helvetica", "Arial", sans-serif;
+    text-align: justify;
+}
+
+a {
+    padding-bottom: 20px;
+    padding-right: 10px;
+    color: #000000;
+    text-underline-offset: 5px;
+    font-family: "Consolas", monospace;
+}
+
+img {
+    padding-left: 20px;
+    padding-bottom: 20px;    
+    float: right;
+    vertical-align: top;
+}
+
+#postamble {
+    font-size: 0.8rem;
+    font-family: "Consolas", monospace;
+}
